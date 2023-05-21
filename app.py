@@ -1,8 +1,8 @@
 import streamlit as st
 import pickle
 
-tfidf = pickle.load(open("C:/programming/Spam email/vectorizer.pkl", "rb"))
-model = pickle.load(open("C:/programming/Spam email/model.pkl", "rb"))
+tfidf = pickle.load(open("vectorizer.pkl", "rb"))
+model = pickle.load(open("model.pkl", "rb"))
 
 st.title("Email Spam Classifier")
 
