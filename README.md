@@ -1,7 +1,5 @@
 # Spam Detection Using Machine Learning
 
-## Semester Project-II Report
-
 ### Overview
 This repository contains the implementation details and code for a spam detection system using machine learning. The project focuses on creating a reliable and effective model for identifying spam emails in a diverse dataset.
 
@@ -55,6 +53,6 @@ The project successfully implements a spam email detection system using machine 
 ### Bibliography
 1. Kevin P. Murphy. "Machine Learning: A Probabilistic Perspective."
 2. Andreas C. Miller and Sarah Guido. "Introduction to Machine Learning with Python: A Guide for Data Scientists."
-3. [Dataset URL](https://github.com/tejaschaudhari192/Spam-Email-Detection/blob/master/dataset/mail_data.csv)
+3. [Dataset URL]([https://github.com/tejaschaudhari192/Spam-Email-Detection/blob/master/dataset/mail_data.csv](https://raw.githubusercontent.com/tejaschaudhari192/Spam-Detection/master/dataset/mail_data.csv))
 4. [Pickle Documentation](https://docs.python.org/3/library/pickle.html)
 5. [Streamlit Documentation](https://docs.streamlit.io/)
