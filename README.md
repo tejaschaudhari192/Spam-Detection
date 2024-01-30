@@ -17,9 +17,6 @@ The dataset consists of email data with both spam and non-spam (ham) emails. It 
 **4.2.1 Machine Learning**
 Machine learning, specifically logistic regression, is employed for spam email recognition due to its adaptability in handling evolving patterns.
 
-**4.2.2 Why Python for ML?**
-Python is chosen for its easy syntax, extensive ML libraries (e.g., scikit-learn), vast community support, and a strong data science ecosystem.
-
 #### 4.3 Code Implementation
 **4.3.1 Libraries Used**
 - NumPy
