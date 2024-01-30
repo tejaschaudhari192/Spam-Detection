@@ -45,6 +45,9 @@ Python is chosen for its easy syntax, extensive ML libraries (e.g., scikit-learn
 
 #### 4.5 Snapshots (Output)
 After running `app.py`, the web application predicts whether an inputted message is classified as "Spam" or "Not Spam."
+![image](https://github.com/tejaschaudhari192/Spam-Detection/assets/104405128/455b26f8-0f48-496a-8278-27123e5538b8)
+![image](https://github.com/tejaschaudhari192/Spam-Detection/assets/104405128/e38fc665-cf27-4071-865d-cdb9fea54922)
+
 
 ### Conclusion
 The project successfully implements a spam email detection system using machine learning, demonstrating practical application through a deployed web application.
