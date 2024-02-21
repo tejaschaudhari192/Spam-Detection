@@ -1,8 +1,8 @@
 import streamlit as st
 import pickle
 
-tfidf = pickle.load(open("pkl/vectorizer.pkl", "rb"))
-model = pickle.load(open("pkl/model.pkl", "rb"))
+tfidf = pickle.load(open("vectorizer.pkl", "rb"))
+model = pickle.load(open("model.pkl", "rb"))
 
 st.title("Email Spam Classifier")
 
@@ -18,7 +18,7 @@ if st.button("Predict"):
     else:
         st.header("Spam")
 
-    am = 'ham' if result == 0 else 'spam'
+    am = 'Not Spam' if result == 0 else 'spam'
     
     file = open('logs.txt', 'a')
     line = f"\n{am},{input_mail[0]}"
