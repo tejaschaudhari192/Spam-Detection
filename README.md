@@ -3,6 +3,11 @@
 ### Overview
 This repository contains the implementation details and code for a spam detection system using machine learning. The project focuses on creating a reliable and effective model for identifying spam emails in a diverse dataset.
 
+### How to Run ?
+- Clone repository
+- pip install libraries : scikit-learn, streamlit
+- run command "python -m streamlit run app.py"
+
 ### Implementation Details
 
 #### 4.1 Dataset
